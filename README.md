@@ -7,7 +7,7 @@ The To-Do List is a web application for managing daily tasks. It supports adding
 ---
 
 ## 🚀 Live Demo
-🔗 [View To-Do List](https://yourusername.github.io/CodeAlpha_ToDoList/)
+🔗 [View To-Do List](https://shuaibupassionateprogrammer.github.io/CodeAlpha_ToDoList/)
 
 ---
 
